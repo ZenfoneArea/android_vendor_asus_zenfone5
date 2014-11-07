@@ -109,7 +109,6 @@ PRODUCT_COPY_FILES += \
 	vendor/asus/zenfone5/proprietary/etc/atomisp/01hm2056.cpf:system/etc/atomisp/01hm2056.cpf \
 	vendor/asus/zenfone5/proprietary/etc/firmware/aac_dec_1.bin:system/etc/firmware/aac_dec_1.bin \
 	vendor/asus/zenfone5/proprietary/etc/firmware/BCM2076B1_002.002.004.0138.0139.hcd:system/etc/firmware/BCM2076B1_002.002.004.0138.0139.hcd \
-	vendor/asus/zenfone5/proprietary/etc/firmware/fa_extension.bin:system/etc/firmware/fa_extension.bin \
 	vendor/asus/zenfone5/proprietary/etc/firmware/fw_bcmdhd_43362_apsta.bin:system/etc/firmware/fw_bcmdhd_43362_apsta.bin \
 	vendor/asus/zenfone5/proprietary/etc/firmware/fw_bcmdhd_43362.bin:system/etc/firmware/fw_bcmdhd_43362.bin \
 	vendor/asus/zenfone5/proprietary/etc/firmware/fw_sst_08e7.bin:system/etc/firmware/fw_sst_08e7.bin \
