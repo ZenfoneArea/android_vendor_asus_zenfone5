@@ -155,21 +155,35 @@ PRODUCT_COPY_FILES += \
 	vendor/asus/zenfone5/proprietary/framework/com.intel.security.service.sepmanager.jar:system/framework/com.intel.security.service.sepmanager.jar \
 	vendor/asus/zenfone5/proprietary/lib/libasfparser.so:system/lib/libasfparser.so \
 	vendor/asus/zenfone5/proprietary/lib/libasound.so:system/lib/libasound.so \
+	vendor/asus/zenfone5/proprietary/lib/libmedia.so:system/lib/libmedia.so \
+	vendor/asus/zenfone5/proprietary/lib/liblog.so:system/lib/liblog.so \
+	vendor/asus/zenfone5/proprietary/lib/libutils.so:system/lib/libutils.so \
+	vendor/asus/zenfone5/proprietary/lib/libcutils.so:system/lib/libcutils.so \
+	vendor/asus/zenfone5/proprietary/lib/libexpat.so:system/lib/libexpat.so \
 	vendor/asus/zenfone5/proprietary/lib/libaudience-manager.so:system/lib/libaudience-manager.so \
 	vendor/asus/zenfone5/proprietary/lib/libaudiohalutils.so:system/lib/libaudiohalutils.so \
 	vendor/asus/zenfone5/proprietary/lib/libaudioresample.so:system/lib/libaudioresample.so \
 	vendor/asus/zenfone5/proprietary/lib/libaudioutils.so:system/lib/libaudioutils.so \
+	vendor/asus/zenfone5/proprietary/lib/libaudioflinger.so:system/lib/libaudioflinger.so \
+	vendor/asus/zenfone5/proprietary/lib/libmedia_jni.so:system/lib/libmedia_jni.so \
+	vendor/asus/zenfone5/proprietary/lib/libandroid_runtime.so:system/lib/libandroid_runtime.so \
 	vendor/asus/zenfone5/proprietary/lib/libbt-hci.so:system/lib/libbt-hci.so \
 	vendor/asus/zenfone5/proprietary/lib/libbt-utils.so:system/lib/libbt-utils.so \
 	vendor/asus/zenfone5/proprietary/lib/libdrm.so:system/lib/libdrm.so \
 	vendor/asus/zenfone5/proprietary/lib/libevent-listener.so:system/lib/libevent-listener.so \
 	vendor/asus/zenfone5/proprietary/lib/libglib-2.0.so:system/lib/libglib-2.0.so \
 	vendor/asus/zenfone5/proprietary/lib/libhwcwidi.so:system/lib/libhwcwidi.so \
+	vendor/asus/zenfone5/proprietary/lib/libhardware.so:system/lib/libhardware.so \
+	vendor/asus/zenfone5/proprietary/lib/libhardware_legacy.so:system/lib/libhardware_legacy.so \
 	vendor/asus/zenfone5/proprietary/lib/libia_aiq_cp.so:system/lib/libia_aiq_cp.so \
 	vendor/asus/zenfone5/proprietary/lib/libia_aiq.so:system/lib/libia_aiq.so \
+	vendor/asus/zenfone5/proprietary/lib/libia_isp_1_5.so:system/lib/libia_isp_1_5.so \
+	vendor/asus/zenfone5/proprietary/lib/libia_isp_2_2.so:system/lib/libia_isp_2_2.so \
 	vendor/asus/zenfone5/proprietary/lib/libia_log.so:system/lib/libia_log.so \
 	vendor/asus/zenfone5/proprietary/lib/libia_mkn.so:system/lib/libia_mkn.so \
 	vendor/asus/zenfone5/proprietary/lib/libia_nvm.so:system/lib/libia_nvm.so \
+	vendor/asus/zenfone5/proprietary/lib/libc.so:system/lib/libc.so \
+	vendor/asus/zenfone5/proprietary/lib/libstdc++.so:system/lib/libstdc++.so \
 	vendor/asus/zenfone5/proprietary/lib/libintelcamera_jni.so:system/lib/libintelcamera_jni.so \
 	vendor/asus/zenfone5/proprietary/lib/libintelmetadatabuffer.so:system/lib/libintelmetadatabuffer.so \
 	vendor/asus/zenfone5/proprietary/lib/libinterface-provider-lib.so:system/lib/libinterface-provider-lib.so \
